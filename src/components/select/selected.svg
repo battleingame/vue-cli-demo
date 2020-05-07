@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>多选-选中</title>
+    <desc>Created with Sketch.</desc>
+    <g id="vr实时看板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="实时看板-代表" transform="translate(-219.000000, -165.000000)">
+            <g id="多选-选中" transform="translate(219.000000, 165.000000)">
+                <rect id="Rectangle-271-Copy-2" fill="#17CDCC" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <path d="M4.37324262,9.01609977 C4.09710025,9.01609977 3.87324262,8.76026248 3.87324262,8.4446712 L3.87324262,8.4446712 L3.87324262,5.01609977 C3.87324262,4.70050848 4.12907991,4.4446712 4.4446712,4.4446712 C4.76026248,4.4446712 5.01609977,4.70050848 5.01609977,5.01609977 L5.01609977,5.01609977 L5.01524262,7.8726712 L11.3732426,7.87324262 C11.6217708,7.87324262 11.8279483,8.08047083 11.8666985,8.35198251 L11.8732426,8.4446712 C11.8732426,8.76026248 11.649385,9.01609977 11.3732426,9.01609977 L11.3732426,9.01609977 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(7.873243, 6.730385) rotate(-45.000000) translate(-7.873243, -6.730385) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
